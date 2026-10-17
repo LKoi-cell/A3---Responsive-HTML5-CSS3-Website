@@ -1,0 +1,1 @@
+Save genuine screenshots and validation results in this folder. Suggested filenames: mobile.png, tablet.png, desktop.png, html-validation.png, browser-tests.png. Do not submit placeholder or simulated evidence as if tests were performed.
